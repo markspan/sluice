@@ -1,0 +1,13 @@
+[project]
+name = "sluice"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "mne>=1.12.0",
+    "nuitka>=4.0.8",
+    "pybv>=0.7.6",
+    "pyside6>=6.11.0",
+    "pyxdf>=1.17.4",
+]
