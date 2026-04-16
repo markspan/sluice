@@ -8,3 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
+nuitka-crash-report.xml
+nuitka_compile.bat
+sluice v0.1.0.exe
